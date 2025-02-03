@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
 
-yooooooo man webpage here
+body: yooooooo man webpage here
 ---
 
