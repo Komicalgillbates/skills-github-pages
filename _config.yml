@@ -7,4 +7,8 @@ include:
 markdown: kramdown
 theme: minima  # Use a Jekyll theme or remove this if using custom styles
 
+baseurl: "/skills-github-pages"  # Set this to your repo name
+url: "https://komicalgillbates.github.io"  # Your GitHub username URL
+
+
 
