@@ -1,9 +1,8 @@
----
-layout: post
-title: My First Blog Post
-date: 2025-02-03
-categories: jekyll blog
----
+title: My Jekyll Site
+description: A simple Jekyll website with a Hero Section
 
-Hello! This is my first blog post using Jekyll. 🚀
+# Enable Markdown parsing and allow HTML
+markdown: kramdown
+theme: minima  # Use a Jekyll theme or remove this if using custom styles
+
 
